@@ -1,0 +1,19 @@
+<s:Envelope xmlns:s="http://www.w3.org/2003/05/soap-envelope">
+  <s:Header>
+    <Action s:mustUnderstand="1" xmlns="http://schemas.microsoft.com/ws/2005/05/addressing/none">http://transferTransactionServices/transferTransactionServices/postPaymentTransaction</Action>
+    <h:requestHeader xmlns:h="http://transferTransactionServices" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <language>en</language>
+      <requestID>758bc870-25e7-46af-a021-030f6f8bd82f</requestID>
+      <userID>FAUser1/ZgXU05kJ9rw=</userID>
+      <customerNo>552214</customerNo>
+      <channelID>FRONT_ARENA</channelID>
+      <tokenKey>55</tokenKey>
+      <cuid />
+      <idNumber />
+    </h:requestHeader>
+    <VsDebuggerCausalityData xmlns="http://schemas.microsoft.com/vstudio/diagnostics/servicemodelsink">uIDPoxcAJUWcCOxNhHYIpxA91EoAAAAAz3rDzr6l5UaUms96Sku/etFqT9lA2ghNpVU+UiwZiZEACQAA</VsDebuggerCausalityData>
+  </s:Header>
+  <s:Body xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <h:postPaymentTransactionRequest xmlns:h="http://transferTransactionServices">
+      <paymentType>SWIFT</paymentType>
+      <paymentTransaction>02BKTRUS30XXXX       NCPUTREBJAZTRE161950041   Y                                                        WN HMI            160713USD000000005199541300                                                                                                                                                                                                              SSCBLUS33                                                                                                                                                                                                                                                                                                                                                                                                                   SBJAZSAJE                                                                                                                                                                                                     SBKTRUS30                                                                                                                                                                 USD432                              SBKTRUS30                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 B        
