@@ -1,3 +1,5 @@
 # MyTest
 Cration of a first repo
-Testing an edit of README.md file
+Testing Branch 2 - an edit of README.md file
+
+
