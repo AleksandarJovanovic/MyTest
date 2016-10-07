@@ -7,6 +7,11 @@
       <userID>FAUser1/ZgXU05kJ9rw=</userID>
       <customerNo>552214</customerNo>
       <channelID>FRONT_ARENA</channelID>
+      
+      
+      
+      
+      
       <tokenKey>55</tokenKey>
       <cuid />
       <idNumber />
